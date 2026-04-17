@@ -1,0 +1,8 @@
+=== Security Report ===
+Username: Rahul
+Password Strength: STRONG
+Entropy: 98.32
+Password Hash: 3c6134d12c31af0fa592b27b91334aa8f867b4b6479a063d3a398fd45f3400b7
+Risk: LOW
+Login Attempts Used: 3
+Attack Time: 10.5479 sec
